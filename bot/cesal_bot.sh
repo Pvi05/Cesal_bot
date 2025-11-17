@@ -1,2 +1,2 @@
 #!/bin/bash
-~/CesalBot/.venv/bin/python /Users/paulv/CesalBot/cesal_bot.py
+Path/to/python Path/to/cesal_bot_public.py
