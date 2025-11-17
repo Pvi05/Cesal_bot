@@ -14,7 +14,7 @@ Les clefs correspondantes sont à entrer en tête du fichier de code.
 Ce script a été construit pour tourner en continu, et fonctionnera au mieux sur une machine fixe connecté en permanence à Internet.
 
 Le site de Césal présente un Captcha qui ne peut pas être tout le temps contourné. 
-La stratégie du robot ici utilise le service 2captcha pour résoudre le captcha les fois ou cela est nécéssaire. 2captcha est un service payant mais qui facture une fraction de centime d'euro pour 1 captcha. Notre robot conserve les cookies pour résoudre le captcha le moins de fois possible. Au total, le coût par mois d'utilisation du service ne devrait pas dépasser qqu centimes/mois.
+La stratégie du robot ici utilise le service 2captcha pour résoudre le captcha les fois ou cela est nécéssaire. 2captcha est un service payant mais qui facture une fraction de centime d'euro pour 1 captcha. Notre robot conserve les cookies pour résoudre le captcha le moins de fois possible. Au total, le coût par mois d'utilisation du service ne devrait pas dépasser qqu centimes/mois (typiquement 1 ou 2 centimes)
 
 Si vous ne souhaitez pas utiliser ce service, cela nécessitera une mise à jour manuelle des cookies à intervalle régulier (qui varie avec la fréquence de rafraichissement).
 La procédure à suivre est la suivante :
