@@ -273,6 +273,7 @@ async def auto_fetch(users):
                 for user in users:
                     await user.send(f"<@{user.id}> : Availaible housing \n" + avail)
             elif cpt % (12*6) == 0:  # Reminder bot is running every 6 hours, remove if not needed
+                cpt = 0
                 for user in users:
                     await user.send("No available housing since the last time")
             for user in users:
