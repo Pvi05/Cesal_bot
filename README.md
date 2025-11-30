@@ -33,7 +33,7 @@ Vous trouverez également un fichier bash cesal_bot.sh si vous souhaiter lancer 
 
 $cstring : Voir procédure ci-dessus
 
-$logement : Vérification à la demande de la disponibilité (en parrallèle de la vérification continue)
+$logement : Vérification à la demande de la disponibilité (en parallèle de la vérification continue)
 
 $restart : Normalement le robot redémarre tout seul en cas de problème. Si vous pensez néanmoins pour une raison ou une autre que le robot a arreté de vérifier les logements, cette commande relancera la procédure si elle s'est effectivement arrêtée.
 
