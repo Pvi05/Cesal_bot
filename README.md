@@ -25,7 +25,7 @@ La procédure à suivre est la suivante :
 
 Pour certaines fréquences de rafraichissement, cette procédure sera nécessaire jusqu'à plusieurs fois par semaine, il est donc **vivement reccomandé d'utiliser 2captcha**.
 
-**Dans le code de base, le robot regarde les disponibilités toutes les 5 minutes, et rapelle qu'il est en route toutes les 6 heures.** Ces deux valeurs peuvent être modifiés à la fin du code.
+**Dans le code de base, le robot regarde les disponibilités toutes les 5 minutes, et rappele qu'il est en route toutes les 6 heures.** Ces deux valeurs peuvent être modifiés à la fin du code.
 
 Vous trouverez également un fichier bash cesal_bot.sh si vous souhaiter lancer le bot au démarrage de votre appareil (avec un plist par exemple)
 
